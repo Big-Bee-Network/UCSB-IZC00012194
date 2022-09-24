@@ -5,7 +5,7 @@
 [hash://sha256/f483...](./data/f4/83/f483caf90eed913a2f246c62dd11f1c678ee7665f0258015c6d761d28684df02)
 UCSB-IZC0001219 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
 
-This animated gif of bee specimen was created using UCSB ICZ, preston, ffmpeg, and friends using the [make.sh](./make.sh) script.
+This animated gif of bee specimen was created using UCSB ICZ, Preston, ffmpeg, and friends using the [make.sh](./make.sh) script. The related digital assets and their origins can be found in provenance log [hash://sha256/f483...](./data/f4/83/f483caf90eed913a2f246c62dd11f1c678ee7665f0258015c6d761d28684df02) . 
 
 # Funding 
 
