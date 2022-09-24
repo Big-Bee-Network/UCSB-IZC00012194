@@ -38,6 +38,6 @@ cp "${BEE_GIF}" bee.gif
 # append the movie to the Preston archive
 preston track "file://$PWD/${BEE_GIF}"
 
-
+preston label > label.png
 
 
