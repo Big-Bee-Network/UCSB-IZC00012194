@@ -1,11 +1,14 @@
 # 3bee.gif
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7114321.svg)](https://doi.org/10.5281/zenodo.7114321) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/3bee.gif/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/3bee.gif) <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/Big-Bee-Network/3bee.gif/main/UCSB-IZC00012194.obj,https://raw.githubusercontent.com/Big-Bee-Network/3bee.gif/main/UCSB-IZC00012194.mtl,https://raw.githubusercontent.com/Big-Bee-Network/3bee.gif/main/UCSB-IZC00012194.jpg"><img src="https://github.com/kovacsv/Online3DViewer/blob/master/assets/logos/3dviewer_net_logo_text.png" style="height:3em"></a> 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7114321.svg)](https://doi.org/10.5281/zenodo.7114321) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/3bee.gif/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/3bee.gif) 
+
 
 ![bee](./bee.gif)
 <a href="./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958"><img src="./label.png" style="height:5em"></a> 
 
 [hash://sha256/96bf...](./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958)
 Xylocopa sonorina - UCSB-IZC0001219 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
+
+Click to launch in <a href="https://3dviewer.net/#model=https://raw.githubusercontent.com/Big-Bee-Network/3bee.gif/main/UCSB-IZC00012194.obj,https://raw.githubusercontent.com/Big-Bee-Network/3bee.gif/main/UCSB-IZC00012194.mtl,https://raw.githubusercontent.com/Big-Bee-Network/3bee.gif/main/UCSB-IZC00012194.jpg"><img src="https://github.com/kovacsv/Online3DViewer/blob/master/assets/logos/3dviewer_net_logo_text.png" style="height:2em"></a> 
 
 This animated gif of bee specimen was created using UCSB ICZ, Preston, ffmpeg, and friends using the [make.sh](./make.sh) script. The related digital assets and their origins can be found in provenance log [hash://sha256/96bf...](./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958) . 
 
