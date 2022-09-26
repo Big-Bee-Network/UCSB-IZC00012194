@@ -62,7 +62,9 @@ function associate-derived-model {
   MODEL_FILE_HASHES=$(echo ${MODEL_FILE_URLS} | xargs preston track | grep hasVersion | grep -Po "hash://sha256/[a-f0-9]{64}")
   for contentId in $MODEL_FILE_HASHES
   do
-    cat tmp/image-hashes.txt | xargs -I{} echo "<${contentId}> <http://www.w3.org/ns/prov#wasDerivedFrom> <{}> ."
+    cat tmp/image-hashes.txt\
+    | xargs -I{} echo "<${contentId}> <http://www.w3.org/ns/prov#wasDerivedFrom> <{}> ."\
+    | preston process
   done
 }
 
