@@ -1,11 +1,13 @@
 # 3bee.gif
-![bee](./bee.gif)
-<a href="./data/f4/83/f483caf90eed913a2f246c62dd11f1c678ee7665f0258015c6d761d28684df02"><img src="./label.png" style="height:5em"></a> 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7113719.svg)](https://doi.org/10.5281/zenodo.7113719) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/3bee.gif/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/3bee.gif)
 
-[hash://sha256/f483...](./data/f4/83/f483caf90eed913a2f246c62dd11f1c678ee7665f0258015c6d761d28684df02)
+![bee](./bee.gif)
+<a href="./data/28/5a/285af8cff9d15fe008193c53f04caa5bd0a14642523fb26e5bd94fe720cf0b78"><img src="./label.png" style="height:5em"></a> 
+
+[hash://sha256/285a...](./data/28/5a/285af8cff9d15fe008193c53f04caa5bd0a14642523fb26e5bd94fe720cf0b78)
 UCSB-IZC0001219 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
 
-This animated gif of bee specimen was created using UCSB ICZ, Preston, ffmpeg, and friends using the [make.sh](./make.sh) script. The related digital assets and their origins can be found in provenance log [hash://sha256/f483...](./data/f4/83/f483caf90eed913a2f246c62dd11f1c678ee7665f0258015c6d761d28684df02) . 
+This animated gif of bee specimen was created using UCSB ICZ, Preston, ffmpeg, and friends using the [make.sh](./make.sh) script. The related digital assets and their origins can be found in provenance log [hash://sha256/285a...](./data/28/5a/285af8cff9d15fe008193c53f04caa5bd0a14642523fb26e5bd94fe720cf0b78) . 
 
 # Funding 
 
