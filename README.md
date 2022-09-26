@@ -1,5 +1,5 @@
 # 3bee.gif
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7113719.svg)](https://doi.org/10.5281/zenodo.7113719) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/3bee.gif/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/3bee.gif)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7113719.svg)](https://doi.org/10.5281/zenodo.7113719) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/3bee.gif/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/3bee.gif) 
 
 ![bee](./bee.gif)
 <a href="./data/28/5a/285af8cff9d15fe008193c53f04caa5bd0a14642523fb26e5bd94fe720cf0b78"><img src="./label.png" style="height:5em"></a> 
