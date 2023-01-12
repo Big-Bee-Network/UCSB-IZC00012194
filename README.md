@@ -1,4 +1,4 @@
-# 3bee.gif
+# Xylocopa sonorina - UCSB-IZC00012194 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7114321.svg)](https://doi.org/10.5281/zenodo.7114321) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/3bee.gif/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/3bee.gif) 
 
 
