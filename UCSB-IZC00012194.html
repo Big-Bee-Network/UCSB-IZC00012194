@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="o3dv.min.js"></script>
+    <script type="text/javascript">
+      window.addEventListener ('load', () => {
+        // set the location of the external libraries
+
+        // get the parent element of the viewer
+        let parentDiv = document.getElementById ('viewer');
+
+        // initialize the viewer with the parent element and some parameters
+        let viewer = new OV.EmbeddedViewer (parentDiv, {});
+
+        // load a model providing model urls
+        viewer.LoadModelFromUrlList ([
+          'UCSB-IZC00012194.obj',
+          'UCSB-IZC00012194.mtl'
+        ]);
+});
+    </script>
+
+  </head>
+  <body>
+    <div id="viewer"/>
+  </body>
+</html>
