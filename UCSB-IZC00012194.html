@@ -25,10 +25,13 @@
         // initialize the viewer with the parent element and some parameters
         let viewer = new OV.EmbeddedViewer (parentDiv, {});
 
+        // infer catalogNumber from HTML name
+	let catalogNumber = document.URL.split('/').reverse()[0].split('.')[0];
+
         // load a model providing model urls
         viewer.LoadModelFromUrlList ([
-          'UCSB-IZC00012194.obj',
-          'UCSB-IZC00012194.mtl'
+          catalogNumber + '.obj',
+          catalogNumber + '.mtl'
         ]);
 });
     </script>
