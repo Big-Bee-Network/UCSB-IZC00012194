@@ -1,5 +1,7 @@
 # Xylocopa sonorina - UCSB-IZC00012194 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7114321.svg)](https://doi.org/10.5281/zenodo.7114321) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/UCSB-IZC00012194/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/UCSB-IZC00012194)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7114321.svg)](https://doi.org/10.5281/zenodo.7114321) 
+
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/UCSB-IZC00012194/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/UCSB-IZC00012194)
 
 [![bee](./bee.gif)](https://big-bee-network.github.io/UCSB-IZC00012194/UCSB-IZC00012194.html)
 <a href="./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958"><img src="./label.png" style="height:5em"></a> 
