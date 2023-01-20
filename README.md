@@ -9,7 +9,33 @@
 [hash://sha256/96bf...](./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958)
 Xylocopa sonorina - UCSB-IZC00012194 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
 
+# Introduction
+TODO 
+
+# Background
+TODO 
+
+# Methods
+TODO 
+
+## Data Origin/Provenance
+
+TODO Appendix A, Appendix B
+
+## Tools Used
+TODO e.g., Javascript library that renders 3d models, Macropod takes image sequence, Metashape transform image sequences into OBJ/MTL/Texture pckage, Preston to digitally package and documents relations between digital content (e.g., what was generated from where at what time), download DwC from Symbiota, download images as referenced in DwC-A, Github to manage the content, Zenodo to publish the content etc, ffmpeg to generate animated GIF.
+
+## Workflow 
+
+TODO add flowchart diagram
+
+# Results
+
+## 3D Model
+
 [View 3D Model](https://big-bee-network.github.io/UCSB-IZC00012194/UCSB-IZC00012194.html)
+
+## Animated Image Sequence
 
 This animated gif of bee specimen was created using the University of California at Santa Barbara Invertebrate Zoology Collection (UCSB IZC), [Preston](https://github.com/bio-guoda/preston), [ffmpeg](https://en.wikipedia.org/wiki/FFmpeg), and friends using the [make.sh](./make.sh) script. The related digital assets and their origins can be found in provenance log [hash://sha256/96bf...](./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958) . 
 
@@ -17,7 +43,17 @@ This animated gif of bee specimen was created using the University of California
 
 This project made possible by National Science Foundation Awards: 2102006, 2101929, 2101908, 2101876, 2101875, 2101851, 2101345, 2101913, 2101891 and 2101850.
 
-# Provenance
+
+# References
+
+Xylocopa sonorina - UCSB-IZC00012194 - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e.
+
+...
+
+## 
+
+# Appendix A
+## Provenance
 
 ```
 $ preston history
@@ -38,7 +74,9 @@ $ preston history
 <hash://sha256/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958> <http://purl.org/pav/previousVersion> <hash://sha256/d3c2c1ec6697a627607caab51135afa4b8d35c4795c9267f5c24ed3009b77fbe> .
 ```
 
-# Tracked Content 
+
+# Appendix B
+## Tracked Content 
 
 ```
 preston alias
