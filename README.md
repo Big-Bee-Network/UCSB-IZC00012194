@@ -39,6 +39,14 @@ TODO add flowchart diagram
 
 This animated gif of bee specimen was created using the University of California at Santa Barbara Invertebrate Zoology Collection (UCSB IZC), [Preston](https://github.com/bio-guoda/preston), [ffmpeg](https://en.wikipedia.org/wiki/FFmpeg), and friends using the [make.sh](./make.sh) script. The related digital assets and their origins can be found in provenance log [hash://sha256/96bf...](./data/96/bf/96bfde1efa599e0e8e61de18b14d61dd308737f684950e4079c04e9bc0f33958) . 
 
+## Functional Treats
+
+TODO add related functional traits related to this specimen. Add content language around traits and morphological features that are human readable, and derived from machine readable content.
+
+## Distribution 
+
+## Taxonomy
+
 # Funding 
 
 This project made possible by National Science Foundation Awards: 2102006, 2101929, 2101908, 2101876, 2101875, 2101851, 2101345, 2101913, 2101891 and 2101850.
