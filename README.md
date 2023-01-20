@@ -41,7 +41,9 @@ This animated gif of bee specimen was created using the University of California
 
 ## Functional Traits
 
-TODO Explore ways to communicate traits related to this specimen. E.g., add related functional traits related to this specimen. Add content language around traits and morphological features that are human readable, and derived from machine readable content. Or add some measurements in a table. :bulb: Help facitate re-use of (overlooked?) trait data somehow . 
+TODO Explore ways to communicate traits related to this specimen. E.g., add related functional traits related to this specimen. Add content language around traits and morphological features that are human readable, and derived from machine readable content. Or add some measurements in a table. 
+
+:bulb: :bee: Help facitate re-use of (overlooked?) trait data somehow . 
 
 ## Distribution 
 
