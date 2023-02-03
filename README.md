@@ -53,6 +53,7 @@ TODO Explore ways to communicate traits related to this specimen. E.g., add rela
 
 This project made possible by National Science Foundation Awards: 2102006, 2101929, 2101908, 2101876, 2101875, 2101851, 2101345, 2101913, 2101891 and 2101850.
 
+#copyright, citation and reuse
 
 # References
 
