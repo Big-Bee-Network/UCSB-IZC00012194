@@ -1,6 +1,6 @@
 %title: How Big is That Bee?
 %author: https://jhpoelen.nl
-%date: 2023-02-28
+%date: 2023-03-28
 
 <!-- made to be used with https://github.com/visit1985/mdp , A command-line based markdown presentation tool. -->
 
